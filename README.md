@@ -1,5 +1,9 @@
 # Firebase Android Chat
 
+## Hire-Me
+
+<p align="center">Are you having trouble in your android projects then let me help you with it just Email me. I love my users, so feel free to visit http://asm.life
+
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FirebaseAndroidChat-green.svg?style=true)](https://android-arsenal.com/details/3/3812)
 
 > Preview
